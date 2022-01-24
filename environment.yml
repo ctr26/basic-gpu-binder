@@ -7,17 +7,17 @@ dependencies:
 #   - tensorflow-gpu
   - pip
   - cudatoolkit
-  - cudnn
+#   - cudnn
   - matplotlib
 #   - keras-gpu
-  - cxx-compiler
+#   - cxx-compiler
   - python
-  - gcc_linux-64
-  - nvcc_linux-64
-  - nccl
-  - cmake
-  - nvidia-ml
-  - cupti
+#   - gcc_linux-64
+#   - nvcc_linux-64
+#   - nccl
+#   - cmake
+#   - nvidia-ml
+#   - cupti
 #   - torch
   - tensorflow
   - nodejs
