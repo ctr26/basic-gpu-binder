@@ -6,7 +6,7 @@ channels:
 dependencies:
 #   - tensorflow-gpu
   - pip
-  - cudatoolkit
+#   - cudatoolkit
 #   - cudnn
   - matplotlib
 #   - keras-gpu
